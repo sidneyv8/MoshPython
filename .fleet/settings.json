@@ -1,3 +1,13 @@
 {
-    "java.debugger.reloadClassesAfterCompilation": "Always"
+    "java.debugger.reloadClassesAfterCompilation": "Always",
+    "plugins": [
+        {
+            "type": "add",
+            "pluginName": "fleet.python"
+        },
+        {
+            "type": "add",
+            "pluginName": "fleet.git.frontend"
+        }
+    ]
 }

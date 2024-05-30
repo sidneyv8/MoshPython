@@ -1,1 +1,2 @@
-print("hi   ")
+print("hello Wold!")
+print("*" * 17)
